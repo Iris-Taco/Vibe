@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # EmotiVibe 디자인 시스템 및 UI/UX 가이드 v2.0 (최종 종합본)
 
 **문서 버전:** 2.0 (Final)
