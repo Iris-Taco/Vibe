@@ -1,10 +1,3 @@
-
-# 이제 우리서비스를 총 망라해서 한 글에 담아줘. GITHUB에 README.MD 파일로 올릴거니까 모든내용이 최대한 상세하고 정확하게 들어가게 작성해줘. 영어로 작성해줘.
-
-Of course. Based on our extensive discussions and all the provided documentation—from the initial Stitch Design mockups to the final, detailed service plans and technical appendices (A-E)—here is a comprehensive `README.md` file for the EmotiVibe project, written in English.
-
-This document is designed to be the single source of truth for your project on GitHub, covering the vision, architecture, technology stack, setup instructions, and core scientific principles.
-
 # EmotiVibe: AI-Powered Emotional Wellness Platform
 
 **EmotiVibe** is a modern, responsive web application designed to help users understand and navigate their emotional landscape. By leveraging AI-driven facial emotion analysis, the platform translates complex emotional states into an intuitive, 8-code "VIBE" system based on the scientific PAD (Pleasure-Arousal-Dominance) model. Users can analyze their emotions, receive AI-generated insights, and creatively express themselves through an integrated **Journal Studio**.
