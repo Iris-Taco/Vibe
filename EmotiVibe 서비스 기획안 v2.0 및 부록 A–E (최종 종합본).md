@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # EmotiVibe 서비스 기획안 v2.0 및 부록 A–E (최종 종합본)
 
 아래는 EmotiVibe 서비스 기획안 v2.0과 모든 부록(A, B, C, D, E)의 최종 내용을 통합한 문서입니다[1]. 이 문서는 실제 구현 코드(`server.py`)와 논의된 모든 요구사항을 100% 반영하여, 개발 및 운영의 기준이 되는 **단일 소스 진실(Single Source of Truth)** 역할을 합니다[2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19][20][21][22][23][24][25].
