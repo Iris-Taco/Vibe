@@ -69,9 +69,7 @@
 - PAD 벡터 계산 공식
 각 감정의 softmax 확률을 해당 PAD 계수에 곱해 합산함.
 
-$$
-\text{PAD}_d = \sum_{e \in \{\text{anger, happy, panic, sadness}\}} P_e \times C_{e,d}
-$$
+<pre> $$ \text{PAD}d = \sum{e \in \{\text{anger},\ \text{happy},\ \text{panic},\ \text{sadness}\}} P_e \times C_{e,d} $$ </pre>
 
 (여기서 $d$는 P, A, D 중 하나, $P_e$는 감정 e의 softmax 확률, $C_{e,d}$는 해당 감정의 PAD 계수)
 - 결과 PAD 벡터는 $[-1, +1]$ 범위의 실수값으로 정규화됨.
